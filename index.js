@@ -1,7 +1,10 @@
+// Fontes de auxílio: https://github.com/rodrigoterradigital/desafio_LP_Dio_Nivel_de_Heroi/blob/main/heroi.js
+// Fontes de auxílio: ChatGPT
+
 // Variáveis para armazenar os nomes, as quantidades de experiência (XP) e os níveis dos heróis
 
-let nomesDoHeroi = ["Soniel", "Kyara", "Andrew", "Zelgadis", "Sitka", "Alana", "Samara", "Altilus"];
-let xps = [234, 1633, 4032, 6444, 7922, 8300, 9175, 12000];
+let nomesDoHeroi = ["Sparrow", "Kyara", "Andrew", "Zelgadis", "Sitka", "Alana", "Samara", "Altilus"];
+let xps = [855, 1633, 4032, 6444, 7922, 8300, 9175, 12000];
 let niveisDoHeroi = [];
 
 // Estrutura de repetição para determinar o nível de cada herói com base na XP
